@@ -1,0 +1,11 @@
+#app{
+  background-image: url(@/assets/background.jpg);
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+  height: 120vh;
+  width: 120vw;
+  margin: -2%;
+  z-index: 0;
+}
