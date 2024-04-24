@@ -4,7 +4,7 @@
 
 <template>
   <div class="test" >
-    <p v-for="i in 100">Hello</p>
+    <p v-for="i in 100" :key="i">Hello</p>
 
    
   </div>
